@@ -26,7 +26,3 @@ A community-curated collection of AirCard resources, Windows releases, Apple Wal
 ## Disclaimer
 
 This is an independent community resource collection and is not an official Apple project. AirCardGuide is independent of the upstream software maintainers. Compatibility and available features may vary by software release and iOS version. Always review the original repository, license, and release notes before using or redistributing software or themes.
-
-## SEO Topics
-
-AirCard, AirCard Windows, Apple Wallet skins, AirCard skins, Apple Wallet card customization, iOS passcode themes, `.passthm` themes, AirCard Designer, AirCard download, AirCard troubleshooting.
